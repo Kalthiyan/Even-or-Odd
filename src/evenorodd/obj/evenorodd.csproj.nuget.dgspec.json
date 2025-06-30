@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Testing\\Even-or-Odd\\src\\evenorodd\\evenorodd.csproj",
         "projectName": "evenorodd",
         "projectPath": "C:\\Testing\\Even-or-Odd\\src\\evenorodd\\evenorodd.csproj",
-        "packagesPath": "C:\\Users\\5786632\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "C:\\Testing\\Even-or-Odd\\src\\evenorodd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\5786632\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

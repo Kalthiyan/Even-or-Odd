@@ -1,0 +1,15 @@
+C:\Testing\Even-or-Odd\src\evenorodd\bin\Debug\net8.0\evenorodd.exe
+C:\Testing\Even-or-Odd\src\evenorodd\bin\Debug\net8.0\evenorodd.deps.json
+C:\Testing\Even-or-Odd\src\evenorodd\bin\Debug\net8.0\evenorodd.runtimeconfig.json
+C:\Testing\Even-or-Odd\src\evenorodd\bin\Debug\net8.0\evenorodd.dll
+C:\Testing\Even-or-Odd\src\evenorodd\bin\Debug\net8.0\evenorodd.pdb
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.AssemblyInfoInputs.cache
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.AssemblyInfo.cs
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.csproj.CoreCompileInputs.cache
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.sourcelink.json
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.dll
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\refint\evenorodd.dll
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.pdb
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\evenorodd.genruntimeconfig.cache
+C:\Testing\Even-or-Odd\src\evenorodd\obj\Debug\net8.0\ref\evenorodd.dll
