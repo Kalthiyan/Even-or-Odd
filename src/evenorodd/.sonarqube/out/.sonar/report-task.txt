@@ -1,6 +1,0 @@
-projectKey=evenorodd
-serverUrl=http://localhost:9002
-serverVersion=25.6.0.109173
-dashboardUrl=http://localhost:9002/dashboard?id=evenorodd
-ceTaskId=6083d485-49c0-4d87-9bef-48b102103d8d
-ceTaskUrl=http://localhost:9002/api/ce/task?id=6083d485-49c0-4d87-9bef-48b102103d8d

@@ -26,5 +26,5 @@ namespace check1
                 Console.Read();
             }
         }
-    }}
+    }
 }

@@ -1,1 +1,0 @@
-KR5C:\Testing\Even-or-Odd\src\evenorodd\evenorodd.csproj¢net8.0òCSharp12

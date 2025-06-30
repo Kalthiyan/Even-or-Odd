@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("evenorodd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac3989985912baad6db750e9ec459bfdd76ede60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4a9b361ed3454c64548d31ef0cc66b3037f7618")]
 [assembly: System.Reflection.AssemblyProductAttribute("evenorodd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("evenorodd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
