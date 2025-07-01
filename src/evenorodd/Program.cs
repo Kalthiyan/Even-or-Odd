@@ -1,30 +1,29 @@
-﻿/*
- * C# Program to Check whether the Entered Number is Even or Odd
- */
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
- 
-namespace check1
+﻿using System;
+
+namespace CheckNumber
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int i;
-            Console.Write("Enter a Number : ");
-            i = int.Parse(Console.ReadLine());
-            if (i % 2 == 0)
+            Console.Write("Enter a Number: ");
+            if (int.TryParse(Console.ReadLine(), out int number))
             {
-                Console.Write("Enter Number is an Even Number");
-                Console.Read();
+                if (number % 2 == 0)
+                {
+                    Console.WriteLine("Entered Number is an Even Number");
+                }
+                else
+                {
+                    Console.WriteLine("Entered Number is an Odd Number");
+                }
             }
             else
             {
-                Console.Write("Enter Number is an Odd Number");
-                Console.Read();
+                Console.WriteLine("Invalid input. Please enter a valid integer.");
             }
+
+          
         }
     }
 }
